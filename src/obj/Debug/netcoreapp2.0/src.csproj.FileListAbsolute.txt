@@ -1,0 +1,17 @@
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\appsettings.Development.json
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\appsettings.json
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\bundleconfig.json
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\src.deps.json
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.json
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.dev.json
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\src.dll
+F:\Fatta\NewProject\New folder\src\bin\Debug\netcoreapp2.0\src.pdb
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.csproj.AssemblyReference.cache
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.AssemblyInfoInputs.cache
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.AssemblyInfo.cs
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.csproj.CoreCompileInputs.cache
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.dll
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.pdb
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.genruntimeconfig.cache
