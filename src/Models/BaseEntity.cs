@@ -10,10 +10,10 @@ namespace src.Models
 
         public BaseEntity()
         {
-            this.CreateAt = DateTime.UtcNow;
+            this.CreatedAt = DateTime.Now;
         }
-        public DateTime CreateAt { get; set; }
-        public string CreateBy { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public string CreatedBy { get; set; }
     }
 
 

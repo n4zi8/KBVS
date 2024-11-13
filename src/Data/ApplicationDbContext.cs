@@ -23,6 +23,8 @@ namespace src.Data
             // Add your customizations after calling base.OnModelCreating(builder);
         }
 
+        String torr = "test break";
+
         public DbSet<src.Models.Organization> Organization { get; set; }
 
         public DbSet<src.Models.Product> Product { get; set; }
@@ -38,5 +40,7 @@ namespace src.Data
         public DbSet<src.Models.Ticket> Ticket { get; set; }
 
         public DbSet<src.Models.ApplicationUser> ApplicationUser { get; set; }
+
+        public DbSet<src.Models.User> User { get; set; }
     }
 }

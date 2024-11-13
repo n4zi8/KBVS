@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Fatta\\NewProject\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\src.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\src.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\contact\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\contact\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FATTA IT\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-src-05F51860-4E08-4FE5-8D25-1615250B538C\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\customer\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\customer\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\api\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\api\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\api\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\api\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\api\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\api\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\api\\supportengineercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\api\\supportengineercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\api\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\api\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\supportagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\supportagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\api\\supportagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\api\\supportagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\wwwroot\\js\\views\\customer\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\wwwroot\\js\\views\\customer\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\wwwroot\\js\\views\\customer\\detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\wwwroot\\js\\views\\customer\\detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\wwwroot\\js\\views\\ticket\\customer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\wwwroot\\js\\views\\ticket\\customer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\supportengineer\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\supportengineer\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\config\\addeditorganization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\config\\addeditorganization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\ticket\\addeditcustomerticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\ticket\\addeditcustomerticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\supportagent\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\supportagent\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\ticket\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\ticket\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|f:\\fatta\\newproject\\new folder\\src\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128BE692-B3AC-42D9-A5BE-110DFA309746}|src\\src.csproj|solutionrelative:src\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "src",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\src.csproj",
+              "RelativeDocumentMoniker": "src\\src.csproj",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\src.csproj",
+              "RelativeToolTip": "src\\src.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T06:54:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\FATTA IT\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-src-05F51860-4E08-4FE5-8D25-1615250B538C\\secrets.json",
+              "ToolTip": "C:\\Users\\FATTA IT\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-src-05F51860-4E08-4FE5-8D25-1615250B538C\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T05:04:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\appsettings.json",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\appsettings.json",
+              "RelativeToolTip": "src\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T04:38:09.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Contact\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Contact\\AddEdit.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Contact\\AddEdit.cshtml",
+              "RelativeToolTip": "src\\Views\\Contact\\AddEdit.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowFAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:47:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Customer.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Models\\Customer.cs",
+              "RelativeToolTip": "src\\Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:52:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Customer\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Customer\\AddEdit.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Customer\\AddEdit.cshtml",
+              "RelativeToolTip": "src\\Views\\Customer\\AddEdit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T00:56:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\ContactController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\Api\\ContactController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\ContactController.cs",
+              "RelativeToolTip": "src\\Controllers\\Api\\ContactController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAhwHsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:58:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\Api\\OrganizationController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\OrganizationController.cs",
+              "RelativeToolTip": "src\\Controllers\\Api\\OrganizationController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAhwFYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:14:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:51:49.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\ConfigController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\Api\\ConfigController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\ConfigController.cs",
+              "RelativeToolTip": "src\\Controllers\\Api\\ConfigController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:30:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\ModuleController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "src\\Controllers\\ModuleController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:32:09.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupportEngineerController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\SupportEngineerController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\Api\\SupportEngineerController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\SupportEngineerController.cs",
+              "RelativeToolTip": "src\\Controllers\\Api\\SupportEngineerController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAhwJsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:32:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadFileController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\UploadFileController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\Api\\UploadFileController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\UploadFileController.cs",
+              "RelativeToolTip": "src\\Controllers\\Api\\UploadFileController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:31:50.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\ConfigController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "src\\Controllers\\ConfigController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAASwFUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:26:40.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\ContactController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "src\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:27:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SupportAgentController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\SupportAgentController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\SupportAgentController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\SupportAgentController.cs",
+              "RelativeToolTip": "src\\Controllers\\SupportAgentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:27:23.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupportAgentController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\SupportAgentController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\Api\\SupportAgentController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\Api\\SupportAgentController.cs",
+              "RelativeToolTip": "src\\Controllers\\Api\\SupportAgentController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAhwJoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:27:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "src\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAhwP8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:45:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.js",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\views\\customer\\index.js",
+              "RelativeDocumentMoniker": "src\\wwwroot\\js\\views\\customer\\index.js",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\views\\customer\\index.js",
+              "RelativeToolTip": "src\\wwwroot\\js\\views\\customer\\index.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T03:09:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\SupportEngineer\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\SupportEngineer\\AddEdit.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\SupportEngineer\\AddEdit.cshtml",
+              "RelativeToolTip": "src\\Views\\SupportEngineer\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:47:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "src\\wwwroot\\js\\site.js",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "src\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T03:09:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "detail.js",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\views\\customer\\detail.js",
+              "RelativeDocumentMoniker": "src\\wwwroot\\js\\views\\customer\\detail.js",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\views\\customer\\detail.js",
+              "RelativeToolTip": "src\\wwwroot\\js\\views\\customer\\detail.js",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T03:09:37.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\SupportAgent\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\SupportAgent\\AddEdit.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\SupportAgent\\AddEdit.cshtml",
+              "RelativeToolTip": "src\\Views\\SupportAgent\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:47:43.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "src\\Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:47:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Ticket\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Ticket\\AddEdit.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Ticket\\AddEdit.cshtml",
+              "RelativeToolTip": "src\\Views\\Ticket\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:47:46.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "customer.js",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\views\\ticket\\customer.js",
+              "RelativeDocumentMoniker": "src\\wwwroot\\js\\views\\ticket\\customer.js",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\wwwroot\\js\\views\\ticket\\customer.js",
+              "RelativeToolTip": "src\\wwwroot\\js\\views\\ticket\\customer.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T02:05:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddEditCustomerTicket.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Ticket\\AddEditCustomerTicket.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Ticket\\AddEditCustomerTicket.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Ticket\\AddEditCustomerTicket.cshtml",
+              "RelativeToolTip": "src\\Views\\Ticket\\AddEditCustomerTicket.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:05:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddEditOrganization.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Config\\AddEditOrganization.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Config\\AddEditOrganization.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Config\\AddEditOrganization.cshtml",
+              "RelativeToolTip": "src\\Views\\Config\\AddEditOrganization.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:05:39.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "src\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:48:48.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\ManageController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "src\\Controllers\\ManageController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAApwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:24:02.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "09a8db6a-4514-44bf-a319-d7b78f6c3237",
+        "Display": 1,
+        "X": 413,
+        "Y": 37,
+        "Width": 1578,
+        "Height": 664,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\Fatta\\NewProject\\New folder\\src\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "src\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:15:36.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,7 @@ namespace src.Models
             //this.customerType = Enum.CustomerType.Internal;
         }
         public Guid customerId { get; set; }
+
         [Display(Name = "Customer Name")]
         [StringLength(100)]
         [Required]
@@ -27,12 +28,12 @@ namespace src.Models
         
         [Display(Name = "Thumb Url")]
         public string thumbUrl { get; set; }
-        
-        [Display(Name = "Department")]
-        public Enum.CustomerType customerType { get; set; }
 
         [Display(Name = "Branches")]
         public Enum.Branches Branches { get; set; }
+
+        [Display(Name = "Department")]
+        public Enum.CustomerType customerType { get; set; }
 
         //address
         [Display(Name = "Full Address")]

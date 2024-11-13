@@ -2,12 +2,27 @@
   "profiles": {
     "src": {
       "commandName": "Project",
-      "commandLineArgs": "debug-on -r -s -t -f -x",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:58457"
+      "applicationUrl": "http://localhost:58457",
+      "nativeDebugging": true
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:56612/",
+      "sslPort": 44333
     }
   }
 }

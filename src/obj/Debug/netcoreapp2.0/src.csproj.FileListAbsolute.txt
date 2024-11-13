@@ -12,6 +12,7 @@ F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.AssemblyInfoInput
 F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.AssemblyInfo.cs
 F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.csproj.CoreCompileInputs.cache
 F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.sourcelink.json
 F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.dll
 F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.pdb
 F:\Fatta\NewProject\New folder\src\obj\Debug\netcoreapp2.0\src.genruntimeconfig.cache

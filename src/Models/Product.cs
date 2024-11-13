@@ -23,6 +23,7 @@ namespace src.Models
         public string description { get; set; }
         [StringLength(255)]
         [Display(Name = "Thumb URL")]
+
         public string thumbUrl { get; set; }
         [Display(Name = "Product Category")]
         public Enum.ProductCategory productCategory { get; set; }

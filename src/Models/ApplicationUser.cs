@@ -22,9 +22,8 @@ namespace src.Models
         [Display(Name = "Wallpaper Picture")]
         public string WallpaperPictureUrl { get; set; } = "/images/wallpaper1.jpg";
 
-        public bool IsSuperAdmin { get; set; } = false;
-        public bool IsCustomer { get; set; } = false;
-        public bool IsSupportAgent { get; set; } = false;
-        public bool IsSupportEngineer { get; set; } = false;
+        public bool isadmin { get; set; } = false;
+        public bool isengineer { get; set; } = false;
+        public bool isuser { get; set; } = false;
     }
 }

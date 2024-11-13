@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
@@ -7,11 +7,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers_old\**" />
+    <Content Remove="Controllers_old\**" />
+    <EmbeddedResource Remove="Controllers_old\**" />
+    <None Remove="Controllers_old\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Contact.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="Logo 2 KB Valbury Sekuritas.ico" />
   </ItemGroup>
 
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.2" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" PrivateAssets="All" />
